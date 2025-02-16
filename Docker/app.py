@@ -103,7 +103,7 @@ else:
 # ------------------------------------------------------------------------
 # 4) Connect to Anvil
 # ------------------------------------------------------------------------
-ANVIL_UPLINK_KEY = "server_XCLDOCQ3R6NRUPV2UPUB4USO-3COCDQ6LIK6OUWK7"
+ANVIL_UPLINK_KEY = "YOUR ANVIL UPLINK"
 anvil.server.connect(ANVIL_UPLINK_KEY)
 
 
